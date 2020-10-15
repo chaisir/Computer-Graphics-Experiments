@@ -1,7 +1,7 @@
-#Computer Graphics Experiments
-##重庆大学计算机图形学实验
+# Computer Graphics Experiments
+## 重庆大学计算机图形学实验
 
-###画直线——line.ipynb
+### 画直线——line.ipynb
 
 * 采用Jupyter notebook，使用了matplotlib库，在坐标系中打点，但打出的点并不是单个像素点，而是宏观意义上上的一个点。
 
@@ -10,7 +10,7 @@
 *     中点画线法
 *     Bresenham算法
     
-###画圆——circle.ipynb
+### 画圆——circle.ipynb
 
 * 采用Jupyter notebook，使用了matplotlib库，在坐标系中打点，但打出的点并不是单个像素点，而是宏观意义上上的一个点。
 
